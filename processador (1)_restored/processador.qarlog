@@ -1,0 +1,31 @@
+Quartus Prime Archive log --	/home/aluno/Downloads/processador (1)_restored/processador.qarlog
+
+Archive:	/home/aluno/Downloads/processador (1)_restored/processador.qar
+Date:		Wed Sep 18 22:17:29 2024
+Quartus Prime		20.1.0 Build 711 06/05/2020 SJ Standard Edition
+
+	=========== Files Selected: ===========
+/home/aluno/Downloads/processador (1)_restored/BANCOREG.v
+/home/aluno/Downloads/processador (1)_restored/MUXTA.v
+/home/aluno/Downloads/processador (1)_restored/MUXTB.v
+/home/aluno/Downloads/processador (1)_restored/PC.v
+/home/aluno/Downloads/processador (1)_restored/RAM.v
+/home/aluno/Downloads/processador (1)_restored/UC.sv
+/home/aluno/Downloads/processador (1)_restored/ULA.sv
+/home/aluno/Downloads/processador (1)_restored/clock.sv
+/home/aluno/Downloads/processador (1)_restored/dev.sv
+/home/aluno/Downloads/processador (1)_restored/extensor_bit.v
+/home/aluno/Downloads/processador (1)_restored/muxtc.v
+/home/aluno/Downloads/processador (1)_restored/processador.qpf
+/home/aluno/Downloads/processador (1)_restored/processador.qsf
+/home/aluno/Downloads/processador (1)_restored/processador.sv
+/home/aluno/Downloads/processador (1)_restored/processador/RegisterOUT.sv
+/home/aluno/Downloads/processador (1)_restored/processador/displayBcd.sv
+/home/aluno/Downloads/processador (1)_restored/processador/modOut.sv
+/home/aluno/Downloads/processador (1)_restored/processador_assignment_defaults.qdf
+/home/aluno/Downloads/processador (1)_restored/programa.txt
+/home/aluno/Downloads/processador (1)_restored/rom.sv
+	======= Total: 20 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
